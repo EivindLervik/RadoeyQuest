@@ -1,0 +1,25 @@
+********************************************************************************
+*                             Initializing Cubiquity                           *
+********************************************************************************
+[20:43:03, Info   ]: Creating empty voxel database as 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/116E4010.vdb'
+[20:44:26, Info   ]: Creating empty voxel database as 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/530BF9B6.vdb'
+[20:44:36, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[20:46:12, Info   ]: Creating empty voxel database as 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/27B441D7.vdb=#'
+[20:46:18, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[20:48:25, Info   ]: Creating empty voxel database as 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/2F5F318C.vdb'
+[20:49:26, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/27B441D7.vdb'
+[20:49:26, Error  ]: Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'
+[20:49:26, Error  ]: Caught 'DatabaseError' at C interface. Message reads: "Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'"
+[20:49:52, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/2F5F318C.vdb'
+[20:50:05, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/2F5F318C.vdb=#'
+[20:50:05, Error  ]: Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'
+[20:50:05, Error  ]: Caught 'DatabaseError' at C interface. Message reads: "Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'"
+[20:50:15, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/2F5F318C.vdb'
+[20:50:29, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/2F5F318C.vdb=#'
+[20:50:29, Error  ]: Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'
+[20:50:29, Error  ]: Caught 'DatabaseError' at C interface. Message reads: "Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'"
+[20:50:39, Info   ]: Creating empty voxel database as 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/66679FE2.vdb=#'
+[20:50:50, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[20:50:56, Info   ]: Creating voxel database from 'C:/Users/Eivind/Documents/GitHub/RadoeyQuest/RadøyQuest/Assets/StreamingAssets/Cubiquity/VoxelDatabases/66679FE2.vdb'
+[20:50:56, Error  ]: Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'
+[20:50:56, Error  ]: Caught 'DatabaseError' at C interface. Message reads: "Encountered 'unable to open database file' (error code 14) when executing 'sqlite3_open_v2(pathToExistingVoxelDatabase.c_str(), &(voxelDatabase->mDatabase), flags, NULL)'"
