@@ -66,3 +66,6 @@ $RECYCLE.BIN/
 RadøyQuest/RadøyQuest-csharp.sln
 *.sln
 *.csproj
+*.sln
+*.sln
+*.userprefs

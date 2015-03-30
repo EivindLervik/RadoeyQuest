@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\RaceCarBehaviour.cs" />
      <Compile Include="Assets\Skript\BussSkript.cs" />
      <Compile Include="Assets\Skript\DagOgNatt.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
