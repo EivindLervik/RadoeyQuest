@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.AI;
 
 public class PlayerController : MonoBehaviour {
     public bool canControl;
@@ -8,9 +9,11 @@ public class PlayerController : MonoBehaviour {
     private PlayerAnimator animator;
 
     private Collider currentTrigger;
+    private NavMeshAgent agent;
 
     void Start () {
         characterMove = GetComponent<CharacterMove>();
+        agent = GetComponent<NavMeshAgent>();
         animator = GetComponentInChildren<PlayerAnimator>();
 	}
 
@@ -36,7 +39,7 @@ public class PlayerController : MonoBehaviour {
             }
 
             // Animate
-            bool moving = planeMove != Vector3.zero;
+            bool moving = (planeMove != Vector3.zero || agent.velocity.magnitude > 0.0f);
             animator.SetIsMoving(moving);
             animator.DoSprint(sprinting);
             animator.DoWalk(walking);
@@ -44,22 +47,15 @@ public class PlayerController : MonoBehaviour {
             {
                 animator.DoYes();
             }
+            if(agent.velocity.magnitude > 0.0f)
+            {
+
+            }
 
             // Interact
             if (Input.GetButtonDown("Interact") && currentTrigger != null && !characterMove.IsMoving(0.01f))
             {
-                InteractionController iC = currentTrigger.GetComponentInParent<InteractionController>();
-                if (iC != null)
-                {
-                    SetCanControl(false);
-                    animator.PressButton();
-                }
-
-                move = new Vector3();
-                sprinting = false;
-                walking = false;
-                transform.position = currentTrigger.transform.position;
-                characterMove.SetCharacterOrientation(currentTrigger.transform.forward);
+                // To interaction
             }
         }
 
@@ -71,8 +67,7 @@ public class PlayerController : MonoBehaviour {
 
     public void DoAction()
     {
-        InteractionController iC = currentTrigger.GetComponentInParent<InteractionController>();
-        iC.DoAction();
+        // Do action
     }
 
     public void SetCanControl(bool cC)
@@ -83,14 +78,7 @@ public class PlayerController : MonoBehaviour {
 
     void OnTriggerEnter(Collider collider)
     {
-        currentTrigger = collider;
-
-        // Check if endlevel
-        AnimatorScript aS = collider.GetComponent<AnimatorScript>();
-        if(aS != null)
-        {
-            aS.FadeOut();
-        }
+        // On trigger
     }
 
     void OnTriggerExit(Collider collider)

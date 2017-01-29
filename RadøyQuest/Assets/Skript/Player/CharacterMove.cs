@@ -113,7 +113,7 @@ public class CharacterMove : MonoBehaviour {
         nyFram.y = 0.0f;
         if(Mathf.Abs(nyFram.magnitude) > 0.02f)
         {
-            character.forward = nyFram;
+            SetCharacterOrientation(nyFram);
         }
 
 
@@ -168,16 +168,7 @@ public class CharacterMove : MonoBehaviour {
     {
         string tag = collider.transform.tag;
 
-        if (isMainCharacter)
-        {
-            if (tag == "Trigger/Camera" || tag == "Trigger/End")
-            {
-                CameraTrigger cT = collider.GetComponent<CameraTrigger>();
-                CameraMaster cam = targetCamera.gameObject.GetComponent<CameraMaster>();
-
-                cam.SetCameraType(cT, transform.position);
-            }
-        }
+        // Stuff sjer
     }
 
     public void SetCharacterOrientation(Vector3 forward)

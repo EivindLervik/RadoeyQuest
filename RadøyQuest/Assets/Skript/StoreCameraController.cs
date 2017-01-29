@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class StoreCameraController : MonoBehaviour {
 
     public float transitionSpeedModefier;
     public int currentIndex;
+    public NavMeshAgent player;
     public Transform[] states;
 
     private Transform targetTransform;
@@ -48,5 +50,7 @@ public class StoreCameraController : MonoBehaviour {
     private void SetTargetTransform()
     {
         targetTransform = states[currentIndex];
+        player.SetDestination(targetTransform.position);
+
     }
 }
