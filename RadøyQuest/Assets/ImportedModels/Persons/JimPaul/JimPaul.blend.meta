@@ -1,0 +1,2471 @@
+fileFormatVersion: 2
+guid: 504e97f2e593d684b8c8d1e48bdaeca6
+timeCreated: 1477322305
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_010
+    100024: Bone_011
+    100026: Bone_012
+    100028: Bone_013
+    100030: Bone_014
+    100032: Bone_015
+    100034: Bone_016
+    100036: Bone_017
+    100038: Bone_018
+    100040: Bone_019
+    100042: Bone_020
+    100044: Jim
+    100046: //RootNode
+    100048: LeftEye
+    100050: RightEye
+    100052: Bone_021
+    100054: Bone_022
+    100056: Bone_023
+    100058: Bone_024
+    100060: Bone_025
+    100062: Bone_026
+    100064: Bone_027
+    100066: Bone_028
+    100068: Bone_029
+    100070: Bone_030
+    100072: Bone_031
+    100074: Bone_032
+    100076: Bone_033
+    100078: Bone_034
+    100080: Bone_035
+    100082: Bone_036
+    100084: Bone_037
+    100086: Bone_038
+    100088: Bone_039
+    100090: Bone_040
+    100092: Bone_041
+    100094: Bone_042
+    100096: Bone_043
+    100098: Bone_044
+    100100: Bone_045
+    100102: Bone_046
+    100104: Bone_047
+    100106: Bone_048
+    100108: Bone_049
+    100110: Bone_050
+    100112: Bone_051
+    100114: Bone_052
+    100116: Bone_053
+    100118: Bone_054
+    100120: Bone_055
+    100122: Bone_056
+    100124: Bone_057
+    100126: Bone_058
+    100128: Brows
+    100130: D_Mouth
+    100132: Head
+    100134: Jaw
+    100136: L_Biceps
+    100138: L_Foot
+    100140: L_Krage
+    100142: L_Laar
+    100144: L_Legg
+    100146: L_Littlefinger
+    100148: L_Littlefinger1
+    100150: L_Littlefinger2
+    100152: L_Littlefinger3
+    100154: L_Middlefinger
+    100156: L_Middlefinger1
+    100158: L_Middlefinger2
+    100160: L_Middlefinger3
+    100162: L_Mouth
+    100164: L_Pelvis
+    100166: L_Pointerfinger
+    100168: L_Pointerfinger1
+    100170: L_Pointerfinger2
+    100172: L_Pointerfinger3
+    100174: L_Ringfinger
+    100176: L_Ringfinger1
+    100178: L_Ringfinger2
+    100180: L_Ringfinger3
+    100182: L_Thumb
+    100184: L_Thumb1
+    100186: L_Thumb2
+    100188: L_Toes
+    100190: L_Wanker
+    100192: Lower
+    100194: Main
+    100196: Mid
+    100198: Mouth
+    100200: R_Biceps
+    100202: R_Foot
+    100204: R_Krage
+    100206: R_Laar
+    100208: R_Legg
+    100210: R_Littlefinger
+    100212: R_Littlefinger1
+    100214: R_Littlefinger2
+    100216: R_Littlefinger3
+    100218: R_Middlefinger
+    100220: R_Middlefinger1
+    100222: R_Middlefinger2
+    100224: R_Middlefinger3
+    100226: R_Mouth
+    100228: R_Pelvis
+    100230: R_Pointerfinger
+    100232: R_Pointerfinger1
+    100234: R_Pointerfinger2
+    100236: R_Pointerfinger3
+    100238: R_Ringfinger
+    100240: R_Ringfinger1
+    100242: R_Ringfinger2
+    100244: R_Ringfinger3
+    100246: R_Thumb
+    100248: R_Thumb1
+    100250: R_Thumb2
+    100252: R_Toes
+    100254: R_Wanker
+    100256: ToBrow
+    100258: ToMouth
+    100260: U_Mouth
+    100262: Upper
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_010
+    400024: Bone_011
+    400026: Bone_012
+    400028: Bone_013
+    400030: Bone_014
+    400032: Bone_015
+    400034: Bone_016
+    400036: Bone_017
+    400038: Bone_018
+    400040: Bone_019
+    400042: Bone_020
+    400044: Jim
+    400046: //RootNode
+    400048: LeftEye
+    400050: RightEye
+    400052: Bone_021
+    400054: Bone_022
+    400056: Bone_023
+    400058: Bone_024
+    400060: Bone_025
+    400062: Bone_026
+    400064: Bone_027
+    400066: Bone_028
+    400068: Bone_029
+    400070: Bone_030
+    400072: Bone_031
+    400074: Bone_032
+    400076: Bone_033
+    400078: Bone_034
+    400080: Bone_035
+    400082: Bone_036
+    400084: Bone_037
+    400086: Bone_038
+    400088: Bone_039
+    400090: Bone_040
+    400092: Bone_041
+    400094: Bone_042
+    400096: Bone_043
+    400098: Bone_044
+    400100: Bone_045
+    400102: Bone_046
+    400104: Bone_047
+    400106: Bone_048
+    400108: Bone_049
+    400110: Bone_050
+    400112: Bone_051
+    400114: Bone_052
+    400116: Bone_053
+    400118: Bone_054
+    400120: Bone_055
+    400122: Bone_056
+    400124: Bone_057
+    400126: Bone_058
+    400128: Brows
+    400130: D_Mouth
+    400132: Head
+    400134: Jaw
+    400136: L_Biceps
+    400138: L_Foot
+    400140: L_Krage
+    400142: L_Laar
+    400144: L_Legg
+    400146: L_Littlefinger
+    400148: L_Littlefinger1
+    400150: L_Littlefinger2
+    400152: L_Littlefinger3
+    400154: L_Middlefinger
+    400156: L_Middlefinger1
+    400158: L_Middlefinger2
+    400160: L_Middlefinger3
+    400162: L_Mouth
+    400164: L_Pelvis
+    400166: L_Pointerfinger
+    400168: L_Pointerfinger1
+    400170: L_Pointerfinger2
+    400172: L_Pointerfinger3
+    400174: L_Ringfinger
+    400176: L_Ringfinger1
+    400178: L_Ringfinger2
+    400180: L_Ringfinger3
+    400182: L_Thumb
+    400184: L_Thumb1
+    400186: L_Thumb2
+    400188: L_Toes
+    400190: L_Wanker
+    400192: Lower
+    400194: Main
+    400196: Mid
+    400198: Mouth
+    400200: R_Biceps
+    400202: R_Foot
+    400204: R_Krage
+    400206: R_Laar
+    400208: R_Legg
+    400210: R_Littlefinger
+    400212: R_Littlefinger1
+    400214: R_Littlefinger2
+    400216: R_Littlefinger3
+    400218: R_Middlefinger
+    400220: R_Middlefinger1
+    400222: R_Middlefinger2
+    400224: R_Middlefinger3
+    400226: R_Mouth
+    400228: R_Pelvis
+    400230: R_Pointerfinger
+    400232: R_Pointerfinger1
+    400234: R_Pointerfinger2
+    400236: R_Pointerfinger3
+    400238: R_Ringfinger
+    400240: R_Ringfinger1
+    400242: R_Ringfinger2
+    400244: R_Ringfinger3
+    400246: R_Thumb
+    400248: R_Thumb1
+    400250: R_Thumb2
+    400252: R_Toes
+    400254: R_Wanker
+    400256: ToBrow
+    400258: ToMouth
+    400260: U_Mouth
+    400262: Upper
+    2300000: Jim
+    2300002: LeftEye
+    2300004: RightEye
+    3300000: Jim
+    3300002: LeftEye
+    3300004: RightEye
+    4300000: RightEye
+    4300002: LeftEye
+    4300004: Jim
+    7400000: Default Take
+    7400002: Idle
+    7400004: Run
+    7400006: YES
+    7400008: Sprint
+    7400010: Jump
+    7400012: FallStraight
+    7400014: JumpStraight
+    7400016: JumpSprint
+    7400018: JumpRun
+    7400020: ButtonPress
+    7400022: Walk
+    7400024: IceGolem
+    9500000: //RootNode
+    13700000: Jim
+    13700002: LeftEye
+    13700004: RightEye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YES
+      takeName: YES
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint
+      takeName: Sprint
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JumpStraight
+      takeName: JumpStraight
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FallStraight
+      takeName: FallStraight
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JumpSprint
+      takeName: JumpSprint
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JumpRun
+      takeName: JumpRun
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ButtonPress
+      takeName: ButtonPress
+      firstFrame: -1
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: SetControlable
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7019252
+        functionName: DoAction
+        data: 
+        objectReferenceParameter: {fileID: 1000011108799756, guid: 75d299934e2c3c0479c809518e056733,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: SetControlable
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IceGolem
+      takeName: IceGolem
+      firstFrame: -1
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
