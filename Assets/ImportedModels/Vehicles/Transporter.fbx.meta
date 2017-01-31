@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 3665e626cf71dc94fa3f28ef2862a266
+timeCreated: 1485888670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BusPlane
+    100002: Door
+    100004: Front
+    100006: pCube1
+    100008: pCube2
+    100010: pCube3
+    100012: pCube4
+    100014: pCube5
+    100016: pCube6
+    100018: pCube7
+    100020: Plane
+    100022: polySurface2
+    100024: polySurface3
+    100026: Seat
+    100028: Seat1
+    100030: Seat2
+    100032: Seat3
+    100034: Seat4
+    100036: Seat5
+    100038: Seat6
+    100040: Seat7
+    100042: Seat8
+    100044: Seat9
+    100046: transform1
+    100048: transform10
+    100050: transform11
+    100052: transform12
+    100054: transform2
+    100056: transform3
+    100058: transform4
+    100060: transform5
+    100062: transform6
+    100064: transform7
+    100066: transform8
+    100068: transform9
+    100070: //RootNode
+    100072: Windows
+    100074: Windows1
+    400000: BusPlane
+    400002: Door
+    400004: Front
+    400006: pCube1
+    400008: pCube2
+    400010: pCube3
+    400012: pCube4
+    400014: pCube5
+    400016: pCube6
+    400018: pCube7
+    400020: Plane
+    400022: polySurface2
+    400024: polySurface3
+    400026: Seat
+    400028: Seat1
+    400030: Seat2
+    400032: Seat3
+    400034: Seat4
+    400036: Seat5
+    400038: Seat6
+    400040: Seat7
+    400042: Seat8
+    400044: Seat9
+    400046: transform1
+    400048: transform10
+    400050: transform11
+    400052: transform12
+    400054: transform2
+    400056: transform3
+    400058: transform4
+    400060: transform5
+    400062: transform6
+    400064: transform7
+    400066: transform8
+    400068: transform9
+    400070: //RootNode
+    400072: Windows
+    400074: Windows1
+    2300000: Door
+    2300002: Plane
+    2300004: Seat
+    2300006: Seat1
+    2300008: Seat2
+    2300010: Seat3
+    2300012: Seat4
+    2300014: Seat5
+    2300016: Seat6
+    2300018: Seat7
+    2300020: Seat8
+    2300022: Seat9
+    2300024: Windows1
+    3300000: Door
+    3300002: Plane
+    3300004: Seat
+    3300006: Seat1
+    3300008: Seat2
+    3300010: Seat3
+    3300012: Seat4
+    3300014: Seat5
+    3300016: Seat6
+    3300018: Seat7
+    3300020: Seat8
+    3300022: Seat9
+    3300024: Windows1
+    4300000: Plane
+    4300002: Seat
+    4300004: Seat1
+    4300006: Seat2
+    4300008: Seat3
+    4300010: Seat4
+    4300012: Seat5
+    4300014: Seat6
+    4300016: Seat7
+    4300018: Seat8
+    4300020: Seat9
+    4300022: Door
+    4300024: Windows1
+    6400000: Door
+    6400002: Plane
+    6400004: Seat
+    6400006: Seat1
+    6400008: Seat2
+    6400010: Seat3
+    6400012: Seat4
+    6400014: Seat5
+    6400016: Seat6
+    6400018: Seat7
+    6400020: Seat8
+    6400022: Seat9
+    6400024: Windows1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

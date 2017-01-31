@@ -291,6 +291,7 @@ ModelImporter:
     7400020: ButtonPress
     7400022: Walk
     7400024: IceGolem
+    7400026: Sit
     9500000: //RootNode
     13700000: Jim
     13700002: LeftEye
@@ -2426,6 +2427,180 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sit
+      takeName: Sit
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/L_Pelvis
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot
+        weight: 1
+      - path: Armature/Main/L_Pelvis/L_Laar/L_Legg/L_Foot/L_Toes
+        weight: 1
+      - path: Armature/Main/Lower
+        weight: 1
+      - path: Armature/Main/Lower/Mid
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToBrow/Brows
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Jaw
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/D_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/L_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/R_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/Head/ToMouth/Mouth/U_Mouth
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Littlefinger/L_Littlefinger1/L_Littlefinger2/L_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Middlefinger/L_Middlefinger1/L_Middlefinger2/L_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Pointerfinger/L_Pointerfinger1/L_Pointerfinger2/L_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Ringfinger/L_Ringfinger1/L_Ringfinger2/L_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/L_Krage/L_Biceps/L_Wanker/L_Thumb/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Littlefinger/R_Littlefinger1/R_Littlefinger2/R_Littlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Middlefinger/R_Middlefinger1/R_Middlefinger2/R_Middlefinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Pointerfinger/R_Pointerfinger1/R_Pointerfinger2/R_Pointerfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Ringfinger/R_Ringfinger1/R_Ringfinger2/R_Ringfinger3
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1
+        weight: 1
+      - path: Armature/Main/Lower/Mid/Upper/R_Krage/R_Biceps/R_Wanker/R_Thumb/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Armature/Main/R_Pelvis
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot
+        weight: 1
+      - path: Armature/Main/R_Pelvis/R_Laar/R_Legg/R_Foot/R_Toes
+        weight: 1
+      - path: Jim
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: RightEye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -2451,6 +2626,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -2461,7 +2637,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1
